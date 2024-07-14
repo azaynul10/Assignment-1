@@ -2,9 +2,7 @@
 
 Welcome to the repository where I solve some of the assignment tasks from the Programming Language 1 (CSE110) course. This repository is designed to help beginner students understand the logic behind these tasks and encourage them to solve the problems on their own. The programming language used here is Python.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Python coding gif]">
-</div>
+
 
 ## 📚 Table of Contents
 - [About the Project](#about-the-project)
